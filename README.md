@@ -219,7 +219,7 @@ if __name__ == "__main__":
     start_chatbot()
 ```
 # OUTPUT:
-
+<img width="980" height="644" alt="Screenshot 2026-03-18 202402" src="https://github.com/user-attachments/assets/19873b5c-9187-4696-89f3-e2d5f3ee1eb3" />
 
 # RESULT:
 The chatbot successfully answers organizational queries, authenticates users using OTP, filters inappropriate language, supports multiple users, and summarizes uploaded documents.
